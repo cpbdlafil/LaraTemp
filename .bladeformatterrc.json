@@ -1,0 +1,16 @@
+{
+    "indentSize": 4,
+    "wrapLineLength": 120,
+    "endWithNewline": true,
+    "noMultipleEmptyLines": true,
+    "wrapAttributes": "force-aligned",
+    "wrapAttributesMinAttrs": 3,
+    "keepSingleAttributePerLine": false,
+    "ensureSpaceBetweenAttributes": true,
+    "ignore": [
+        "vendor/",
+        "node_modules/",
+        "storage/",
+        "bootstrap/"
+    ]
+}
