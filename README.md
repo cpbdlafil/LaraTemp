@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://lafilgroup.com.ph/wp-content/uploads/2025/01/LFUCG-LOGO_horizontal_FINAL-HOR-FORMAT.png" width="300px"></p>
 
-# BaseTemplate
+# LaraTemp
 
 This repository serves as a template for starting a new project
 
